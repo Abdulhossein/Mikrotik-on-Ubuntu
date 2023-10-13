@@ -4,4 +4,4 @@ wget https://raw.githubusercontent.com/Abdulhossein/Mikrotik-on-Ubuntu/main/scri
 
 chmod +x script.sh
 
-./yourscript.sh
+./script.sh
